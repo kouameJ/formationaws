@@ -1,0 +1,37 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.titre{
+    text-align: center;
+    margin-top: -30px;
+    padding-top: 10px;
+    width: 100%;
+    height: 100px;
+    color: black;
+    background-color: lightgray;
+}
+
+.titre p{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.enreg{
+    width: 100%;
+}
+
+.enreg-titre{
+    text-align: center;
+}
+
+.formul{
+    margin: 0 auto;
+    width: 800px;
+    padding: 30px;
+}
+
+.champ{
+    margin: 15px;
+}
